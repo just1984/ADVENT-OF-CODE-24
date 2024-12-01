@@ -1,0 +1,3 @@
+# Ignore Zone.Identifier files
+*.Zone.Identifier
+.ipynb_checkpoints/
